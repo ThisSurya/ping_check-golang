@@ -1,1 +1,1 @@
-# ping_check-golang
+THIS IS FOR CHECK AN DOMAIN, IT CAN BE ACCESSED OR NOT
